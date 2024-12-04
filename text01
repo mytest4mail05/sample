@@ -1,0 +1,16 @@
+ 1164  rm r test
+ 1165  rm -r test
+ 1166  mkdir test
+ 1167  cd test
+ 1168  git clone https://github.com/mytest4mail03/sample01.git
+ 1169  history > history02.txt 
+ 1170  git add .
+ 1171  ls
+ 1172  cd sample01
+ 1173  cd ..
+ 1174  rm -r sample01
+ 1175  git clone https://github.com/mytest4mail05/sample.git
+ 1176  history > text01
+ 1177  git add .
+ 1178  ls
+ 1179  cd sample
